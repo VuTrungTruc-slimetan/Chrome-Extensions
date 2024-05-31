@@ -1,9 +1,9 @@
 *.rar
 *.zip
 *.gzip
-/001_first_demo
-/003_extension_post_link_to_discord
+token.json
 junk.md
+
 /FastForward_chromium
-*.json
+/003_extension_post_link_to_discord
 /004_post_to_discord-ManifestV3
